@@ -9,3 +9,15 @@ a{
 body{
     background-color: #E1C7AE;
 }
+.home{
+
+}
+.h1{
+    color: #000;
+    text-align: center;
+    font-family: Inika;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
