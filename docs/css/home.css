@@ -7,20 +7,28 @@ a{
     color: black;
 }
 body{
-    background-color: #E1C7AE;
+    border: 1px solid #000;
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
-.home{
 
-}
 .h1{
+    background-color:  #00000016;
+    background-color: #0000003f ;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border: 1px solid #000;
     color: #000;
     text-align: center;
     font-family: Inika;
-    font-size: 40px;
+    font-size: 50px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
 }
+
 .h2{
     color: #000;
     text-align: center;
@@ -29,4 +37,22 @@ body{
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    padding: 5%;
+    padding-bottom: 2%;
+}
+.p{
+    color: #000;
+    text-align: center;
+    font-family: Inika;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;  
+}
+.icon{
+    border: 1px solid #000;
+    width: 10%;
+    height: 10%;
+    margin: 2%;
+    margin-top: 0%;
 }
