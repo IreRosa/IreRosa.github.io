@@ -8,6 +8,7 @@ a{
 }
 body{
     border: 1px solid #000;
+    border-bottom: none;
     background-image: url("../images/background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -80,4 +81,5 @@ body{
     margin-top: 0%;
     max-width: 100%; /* Asegura que la imagen no exceda el ancho del contenedor */
     height: auto;
+    border-radius: 7px;
 }
