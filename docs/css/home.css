@@ -56,3 +56,24 @@ body{
     margin: 2%;
     margin-top: 0%;
 }
+.p{
+    text-align: center;
+    background-color: #0000003f ;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border: 1px solid #000;
+    margin: 5%;
+    color: #ffffff;
+    font-family: Inika;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.container {
+    display: flex;
+    justify-content: space-between; /* Distribuye los elementos de manera uniforme */
+  }
+  .containericon {
+
+  }
