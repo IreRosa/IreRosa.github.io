@@ -65,7 +65,7 @@ body{
     padding-bottom: 5%;
     border: 1px solid #000;
     margin: 5%;
-    color: #ffffff;
+    color: #000000;
     font-family: Inika;
     font-size: 20px;
     font-style: normal;
@@ -92,7 +92,12 @@ body{
     border: 1px solid #000;
     border-radius: 10px;
 }
-.image:hover{
-    
+.homeicon{
+    <a href="./public/contact.html"><img class="image" src="./images/Icon.jpg"/>
+    width: 120px;
+    height: 120px;
+    border: 1px solid #000;
+    border-radius: 10px;
 }
+
 
