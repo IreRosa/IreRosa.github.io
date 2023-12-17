@@ -123,3 +123,11 @@ body{
     color: #da1717ad
  }
 
+ .link{
+    color: aliceblue;
+ }
+
+ .imgtopic{
+    width: 50%;
+    border: 1 px #000;
+ }
