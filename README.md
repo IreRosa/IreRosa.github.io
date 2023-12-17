@@ -14,6 +14,3 @@ This is the Designated Detailed Document
 
     Conclusions:
         After finishing this website I can say that eventhough I find it really amusing at times and when I'm inspired designing the website can be entertaining, it really is a tedious task. I think I made the mistake of not using a template because I wanted to do it all myself and I spent most of the time trying to figure out the layout of my page mostly the layout of the images. None the less, this activity really helped me understand all the concepts viewed in class and put them to practice, it also helped reinforce the team spirit of the class because some us did our work in a call to help out eachother when we couldn't figure things out (I want to thank Guillermo García for helping me by solving some doubts I had). So, in conclusion I can say that creating a website by itself is not as difficult as I first though but it can be helpful to use chat GPT to correct some mistakes and having another person to give you their point of view.
-
-
-I also want to thank Guillermo García for helping me by solving some doubts I had
